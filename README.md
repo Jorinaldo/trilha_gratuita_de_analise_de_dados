@@ -265,3 +265,5 @@ Esse documento não seria possível sem o conteúdo disponível na web.
 Aqui estão os links consultados que serviram como apoio para a união de tantas informações.
 
 - [Paulo Vasconcelos](https://paulovasconcellos.com.br/as-melhores-comunidades-de-data-science-que-voc%C3%AA-precisa-participar-hoje-dbb73f72d334)
+
+post da empres aviva hsfjh
